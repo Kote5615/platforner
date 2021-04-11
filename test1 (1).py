@@ -209,3 +209,4 @@ while run:
 	pygame.time.delay(100)
 	pygame.display.update()
 pygame.quit()
+print("asdasd")
